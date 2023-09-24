@@ -2,7 +2,11 @@
 This is basically a Android UI Which is made by Figma ( Which we implement Later )
 
 
+
+Please CLick On the PDF Link to Download the complete UI
+***********************************************************
 [Android UI.pdf](https://github.com/Ajay-2022-Soft-Tech/SIH_2023_Project_Android_UI/files/12708158/Android.UI.pdf)
+***********************************************************
 
 
 ![1](https://github.com/Ajay-2022-Soft-Tech/SIH_2023_Project_Android_UI/assets/113298640/41bf5bb0-0aee-4eb8-abfe-5244253af424)
